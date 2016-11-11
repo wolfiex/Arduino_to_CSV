@@ -2,7 +2,6 @@ import pylab  as plt
 import pandas as pd
 import numpy  as np
 import serial,os,wx
-ipython
 
 
 #pip install pyserial
